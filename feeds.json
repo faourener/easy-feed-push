@@ -1,0 +1,11 @@
+[
+    {"name": "财联社深度头条", "route": "/cls/depth/1000"},
+    {"name": "财联社深度股市", "route": "/cls/depth/1003"},
+    {"name": "财联社电报", "route": "/cls/telegraph/red"},
+    {"name": "雪球", "route": "/xueqiu/hots"},
+    {"name": "韭研公社", "route": "/jiuyangongshe/community"},
+    {"name": "36氪综合榜", "route": "/36kr/hot-list/zonghe"},
+    {"name": "晚点LatePost", "route": "/latepost/1"},
+    {"name": "虎嗅24小时", "route": "/huxiu/moment"},
+    {"name": "虎嗅资讯", "route": "/huxiu/channel/105"}
+]
